@@ -1,0 +1,11 @@
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\RockPaperScissorsLizardSpockAPI.exe
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\appsettings.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\RockPaperScissorsLizardSpockAPI.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\RockPaperScissorsLizardSpockAPI.deps.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\RockPaperScissorsLizardSpockAPI.runtimeconfig.json
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\RockPaperScissorsLizardSpockAPI.pdb
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/544f550d-ae06-4c34-8b9d-6df0ba474a64/resourceGroups/ASoriaAzure_group/providers/Microsoft.Web/sites/RockPaperScissorsLizardSpock"
+}
