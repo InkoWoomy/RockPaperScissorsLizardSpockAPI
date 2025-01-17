@@ -1,3 +1,5 @@
+using RockPaperScissorsLizardSpockAPI.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +8,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<IRPSLSService, RPSLSService>();
 
 //Configuring CORS Policy for unrestricted access
 //This piece of code swill allow any reequest from any domain to access our endpoint "Example.com"
