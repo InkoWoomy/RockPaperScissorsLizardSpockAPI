@@ -30,3 +30,4 @@ C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLiz
 C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\obj\Release\net8.0\RockPaperScissorsLizardSpockAPI.pdb
 C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\obj\Release\net8.0\RockPaperScissorsLizardSpockAPI.genruntimeconfig.cache
 C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\obj\Release\net8.0\ref\RockPaperScissorsLizardSpockAPI.dll
+C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\obj\Release\net8.0\RockPaperScissorsLizardSpockAPI.sourcelink.json

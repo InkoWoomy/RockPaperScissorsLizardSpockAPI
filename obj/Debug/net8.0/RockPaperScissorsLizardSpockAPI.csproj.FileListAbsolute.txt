@@ -1,6 +1,0 @@
-C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Debug\net8.0\RockPaperScissorsLizardSpockAPI.exe
-C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Debug\net8.0\RockPaperScissorsLizardSpockAPI.dll
-C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\ASori\Documents\Codestack\24-25\Level 2\Challenges\RockPaperScissorsLizardSpockAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

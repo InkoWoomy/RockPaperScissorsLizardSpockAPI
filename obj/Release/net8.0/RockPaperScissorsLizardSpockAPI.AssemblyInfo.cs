@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RockPaperScissorsLizardSpockAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb1431e247b5c17d67d90e187da48c2d3f7f344e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RockPaperScissorsLizardSpockAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RockPaperScissorsLizardSpockAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
